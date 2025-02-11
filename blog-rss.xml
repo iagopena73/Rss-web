@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-<channel>
-  <title>My Blog</title>
-  <link>https://www.example.com/</link>
-  <description>This is my personal blog.</description>
-  <language>en-us</language>
-  <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
+    <channel>
+        <title>My Blog bacanisimo</title>
+        <link>https://www.example.com/</link>
+        <description>Esta es mi página sobre comida india.</description>
+        <language>es-es</language>
+        <lastBuildDate>Mie, 5 Feb 2025 17:00:00 GMT</lastBuildDate>
 
-  <item>
-    <title>Blog Entry 1</title>
-    <link>https://www.example.com/blog-entry-1.html</link>
-    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur</description>
-<pubDate>Tue, 18 Apr 2023 12:00:00 GMT</pubDate>
-<guid>https://www.example.com/blog-entry-1.html</guid>
-</item>
+        <item>
+            <title>Plato Nº3</title>
+            <link>https://www.example.com/blog-entry-1.html</link>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur</description>
+            <pubDate>Mie, 5 Feb 2025 17:00:00 GMT</pubDate>
+            <guid>https://www.example.com/blog-entry-1.html</guid>
+        </item>
 
-  <item>
-    <title>Blog Entry 2</title>
-    <link>https://www.example.com/blog-entry-2.html</link>
-    <description>Proin tincidunt auctor urna, non iaculis dolor cursus nec. Sed ut risus nisl. Morbi id elit eget erat aliquet ullamcorper.</description>
-    <pubDate>Tue, 10 Apr 2023 12:00:00 GMT</pubDate>
-    <guid>https://www.example.com/blog-entry-2.html</guid>
-  </item>
-  <item>
-    <title>Blog Entry 3</title>
-    <link>https://www.example.com/blog-entry-3.html</link>
-    <description>Praesent eleifend metus et odio ullamcorper, at auctor elit venenatis. Sed cursus malesuada eros, vitae laoreet orci auctor.</description>
-    <pubDate>Tue, 2 Apr 2023 12:00:00 GMT</pubDate>
-    <guid>https://www.example.com/blog-entry-3.html</guid>
-  </item>
-</channel>
+        <item>
+            <title>Plato Nº2</title>
+            <link>https://www.example.com/blog-entry-2.html</link>
+            <description>Proin tincidunt auctor urna, non iaculis dolor cursus nec. Sed ut risus nisl. Morbi id elit eget erat aliquet ullamcorper.</description>
+            <pubDate>vie, 18 Ene 2025 10:00:00 GMT</pubDate>
+            <guid>https://www.example.com/blog-entry-2.html</guid>
+        </item>
+
+        <item>
+            <title>Plato Nº1</title>
+            <link>https://www.example.com/blog-entry-3.html</link>
+            <description>Praesent eleifend metus et odio ullamcorper, at auctor elit venenatis. Sed cursus malesuada eros, vitae laoreet orci auctor.</description>
+            <pubDate>Sab, 4 Ene 2024 14:00:00 GMT</pubDate>
+            <guid>https://www.example.com/blog-entry-3.html</guid>
+        </item>
+    </channel>
 </rss>
